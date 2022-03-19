@@ -2,7 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/arthur-vasconcellos-guide-a72333208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **arthurvguide/arthurvguide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
