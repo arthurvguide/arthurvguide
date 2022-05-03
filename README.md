@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I'm junior software developer working to The Logical Utilities Company, my code skills are as follows: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
